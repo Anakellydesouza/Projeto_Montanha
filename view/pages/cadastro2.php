@@ -11,7 +11,7 @@
 <body>
     <div class="container projeto-mt-5 ">
 
-        <!-- isso eh uma alteracao feita pelo sergio -->
+        <!-- todos devem criar conta no github e attlassian, depois clonar repositorio(TEM QUE SER COLABORADOR)  -->
 
         <body class="text-center">
             <form class="form-signin method=POST">
