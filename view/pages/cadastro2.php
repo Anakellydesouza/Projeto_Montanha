@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 
 <head>
@@ -11,7 +11,7 @@
 <body>
     <div class="container projeto-mt-5 ">
 
-        <!-- isso eh uma alteracao -->
+        <!-- isso eh uma alteracao feita pelo sergio -->
 
         <body class="text-center">
             <form class="form-signin method=POST">
