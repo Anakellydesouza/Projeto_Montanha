@@ -6,6 +6,7 @@
         crossorigin="anonymous">
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
         crossorigin="anonymous"></script>
+        
 </head>
 
 <body>
@@ -24,7 +25,7 @@
                         <div class="card border-info bg-primary mb-5">
                             <div class="card-body projeto-text-color-primary">
 
-                                <h1>Projeto Montanha</h1>
+                                <h1>AudWeb</h1>
                                 <p>Audiencias Online</p>
                             </div>
                         </div>
@@ -68,7 +69,7 @@
                         <label class="sr-only"></label>
 
                         <select id="inputState" class="form-control">
-                            <option selected>Selecione...</option>
+                             <option selected>Selecione...</option>
                             <option>Estudante </option>
                             <option>Outros</option>
                         </select>
@@ -77,30 +78,33 @@
                 </div>
 
 
-
-
-
                 <div class="row justify-content-center mt-4">
-                    <div class=" col-xs-1 col-sm-3 col-md-3 col-lg-1">
-                        <p class="text-xs-center text-sm-right text-md-right text-sm-right">
-                            <strong>Ano do curso você está neste momento?</strong>
+                    <div class=" col-xs-1 col-sm-3 col-md-3 col-lg-4"></div>
+                    <div class=" col-xs-3 col-sm-9 col-md-8 col-lg-7 text-center">
+                        <p class="text-left">
+                            <strong>Ano do curso que está no momento:</strong>
                         </p>
                     </div>
+                    <div class="col-lg-1"></div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class=" col-xs-1 col-sm-3 col-md-3 col-lg-1"></div>
 
                     <div class="col-xs-3 col-sm-9 col-md-8 col-lg-5">
                         <label class="sr-only"></label>
+
                         <select id="inputState" class="form-control">
-                            <option selected>Selecione...</option>
-                            <option>1 </option>
+                             <option selected>Selecione...</option>
+                            <option>1</option>
                             <option>2</option>
                             <option>3</option>
                             <option>4</option>
                             <option>5</option>
-
                         </select>
+
                     </div>
                 </div>
-
+                    
 
 
 
@@ -111,7 +115,7 @@
         <div class="col-sm-3 col-lg-1"></div>
         <div class="col-sm-9 col-md-5 col-lg-5     ">
             <div>
-                <a href="home-page.php">
+                <a href="login.php">
             </div>
             <button class="btn btn-lg btn-primary btn-block link" type="button">Enviar</button>
             </a>
