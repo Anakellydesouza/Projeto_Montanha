@@ -1,13 +1,39 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+<link rel="stylesheet" href="../../thirth-parth/bootstrap-4.1.1/dist/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+<script src="../../thirth-parth/bootstrap-4.1.1/assets/js/vendor/popper.min.js"></script>
+<script src="../../thirth-parth/bootstrap-4.1.1/assets/js/vendor/jquery-slim.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js" integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T" crossorigin="anonymous"></script>
+  
+
+    
     </head>
 <body>
+
+<nav class="navbar navbar-dark bg-dark">
+<a class="navbar-brand" href="#">AudWeb</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="pagina_Inicial.php">Home <span class="sr-only">(current)</span></a>
+      </li>
+     
+     
+      
+    </ul>
+    
+  </div>
+
+</nav>
+<!--
 <div class = "container projeto-mt-5 ">
 
-<!-- Comentei aqui -->
+  
 <body class="text-center">
     <form class="form-signin method=POST">    
     <div class="row justify-content-center" >
@@ -23,7 +49,8 @@
 <p>Audiencias Online</p>
   </div>
 </div>
-    <h1 class="h3 mb-3 font-weight-normal">Cadastro</h1>
+-->
+    <h1 class="h3 mb-3 font-weight-normal text-center mt-5">Cadastro</h1>
     </div>
     </div> 
     <div class="row justify-content-center">

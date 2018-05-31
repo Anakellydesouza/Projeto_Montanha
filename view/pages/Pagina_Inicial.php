@@ -12,11 +12,36 @@
 
 <body>
 
-<div class="card border-info bg-primary mb-5" >
+<div class="card border-info bg-info mb-5" >
   <div class="card-body projeto-text-color-primary text-center">
 
-<h1> Projeto Montanha</h1>
-<p>Audiencias Online</p>
+<h1> AudWeb</h1>
+<p>Valendo-se de todas as facilidades e benefícios
+proporcionados pelo ensino a distância, AudWeb pretende quebrar barreiras de tempo e
+espaço.</p>
+  </div>
+</div>
+
+
+
+
+<div class="row">
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+       
+        
+        <a href="cadastro.php"<button type="button" class="btn btn-primary btn-lg btn-block">Cadastre-se</button></a>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+
+        <a href="login.php"<button type="button" class="btn btn-primary btn-lg btn-block">Login</button></a>
+      </div>
+    </div>
   </div>
 </div>
 
