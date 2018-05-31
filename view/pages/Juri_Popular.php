@@ -72,34 +72,43 @@
 
 </nav>
 
+<div class="container">
 <h1> Escolha à audiência que deseja assistir:</h1>
 <h3> Juri Popular.
+</div>
 
 
 
 
-
+<div class="container">
   <div class="card w-75 mt-5">
   <div class="card-body">
     <h5 class="card-title">Audiências da justiça comum:</h5>
     <a href="Audiencia_Civil.php"<button type="button" class="btn btn-outline-primary">Clique aqui</button></a>
   </div>
 </div>
+</div>
 
+<div class="container">
 <div class="card w-75 mt-5">
   <div class="card-body">
     <h5 class="card-title">Audiências criminais da justiça comum:</h5>
     <a href="#"<button type="button" class="btn btn-outline-primary">Clique aqui</button></a>
   </div>
 </div>
-
-
-<div class="card w-75 mt-5">
-  
 </div>
 
-<div class="card w-75 mt-5">
+<div class="container">
+    <div class="card w-75 mt-5">
   
+    </div>
+</div>
+
+
+<div class="container">
+    <div class="card w-75 mt-5">
+  
+    </div>
 </div>
 
 

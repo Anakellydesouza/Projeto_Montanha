@@ -71,41 +71,48 @@
   </div>
 
 </nav>
-
+<div class="container">
 <h1> Escolha à audiência que deseja assistir:</h1>
 <h3>Audiências Cíveis da Justiça Comum.</h3>
+</div>
 
 
 
 
-
+<div class="container">
   <div class="card w-75 mt-5">
   <div class="card-body">
     <h5 class="card-title">Audiência de tentativa de conciliação ou mediação:</h5>
     <a href="#"<button type="button" class="btn btn-outline-primary">Clique aqui</button></a>
   </div>
 </div>
+</div>
 
+<div class="container">
 <div class="card w-75 mt-5">
   <div class="card-body">
     <h5 class="card-title">Audiências de instrução:</h5>
     <a href="#"<button type="button" class="btn btn-outline-primary">Clique aqui</button></a>
   </div>
 </div>
+</div>
 
-
+<div class="container">
 <div class="card w-75 mt-5">
   <div class="card-body">
     <h5 class="card-title">Audiências de saneamento:</h5>
     <a href="#"<button type="button" class="btn btn-outline-primary">Clique aqui</button></a>
   </div>
 </div>
+</div>
 
+<div class="container">
 <div class="card w-75 mt-5">
   <div class="card-body">
     <h5 class="card-title">Audiências de justificação:</h5>
     <a href="#"<button type="button" class="btn btn-outline-primary">Clique aqui</button></a>
   </div>
+</div>
 </div>
 
 

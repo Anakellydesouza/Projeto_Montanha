@@ -72,39 +72,49 @@
 
 </nav>
 
+<div class="container">
+
 <h1> Escolha à audiência que deseja assistir:</h1>
+</div>
 
 
 
 
-
+<div class="container">
   <div class="card w-75 mt-5">
   <div class="card-body">
     <h5 class="card-title">Audiências da justiça comum:</h5>
     <a href="Audiencia_Civil.php"<button type="button" class="btn btn-outline-primary">Clique aqui</button></a>
   </div>
 </div>
+</div>
 
+
+<div class="container">
 <div class="card w-75 mt-5">
   <div class="card-body">
     <h5 class="card-title">Audiências criminais da justiça comum:</h5>
     <a href="Audiencia_Criminal.php"<button type="button" class="btn btn-outline-primary">Clique aqui</button></a>
   </div>
 </div>
+</div>
 
-
+<div class="container">
 <div class="card w-75 mt-5">
   <div class="card-body">
     <h5 class="card-title">Audiências da justiça do trabalho:</h5>
     <a href="Audiencia_Trabalho.php"<button type="button" class="btn btn-outline-primary">Clique aqui</button></a>
   </div>
 </div>
+</div>
 
+<div class="container">
 <div class="card w-75 mt-5">
   <div class="card-body">
     <h5 class="card-title">Juri Popular:</h5>
     <a href="Juri_Popular.php"<button type="button" class="btn btn-outline-primary">Clique aqui</button></a>
   </div>
+</div>
 </div>
 
 
