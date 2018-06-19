@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -72,8 +79,12 @@
 
 </nav>
 <div class="container">
-<h1> Escolha à audiência que deseja assistir:</h1>
-<h3>Audiências Cíveis da Justiça Comum.</h3>
+<h1> Audiência Cível 02</h1>
+<h5> Tema: Indenização por Dano Material
+
+<!--Tipo de Audiência:  Conciliação
+Juiz Presidente do ato:  José de Andrade Neto
+!-->
 </div>
 
 
@@ -82,38 +93,17 @@
 <div class="container">
   <div class="card w-75 mt-5">
   <div class="card-body">
-    <h5 class="card-title">Audiência de tentativa de conciliação ou mediação:</h5>
-    <a href="AudienciaConciliaçao.php"<button type="button" class="btn btn-outline-primary">Clique aqui</button></a>
-  </div>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/dmIVzqVDpu0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    
 </div>
 </div>
 
-<div class="container">
-<div class="card w-75 mt-5">
-  <div class="card-body">
-    <h5 class="card-title">Audiências de instrução:</h5>
-    <a href="#"<button type="button" class="btn btn-outline-primary">Clique aqui</button></a>
-  </div>
-</div>
-</div>
 
-<div class="container">
-<div class="card w-75 mt-5">
-  <div class="card-body">
-    <h5 class="card-title">Audiências de saneamento:</h5>
-    <a href="#"<button type="button" class="btn btn-outline-primary">Clique aqui</button></a>
-  </div>
-</div>
-</div>
 
-<div class="container">
-<div class="card w-75 mt-5">
-  <div class="card-body">
-    <h5 class="card-title">Audiências de justificação:</h5>
-    <a href="#"<button type="button" class="btn btn-outline-primary">Clique aqui</button></a>
-  </div>
-</div>
-</div>
+
+
+
 
 
 
@@ -123,3 +113,5 @@
 
     </body>
     </html>
+
+
